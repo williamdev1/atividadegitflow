@@ -1,1 +1,1 @@
-- Curadoria: sele‡Æo dos filmes.
+- CSV: formato de exporta‡Æo.
