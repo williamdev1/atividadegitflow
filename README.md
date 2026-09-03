@@ -1,5 +1,5 @@
 # Manual da Mostra Cine UCS 
  
-Contato: cine@ucs.br
+Contato: mostra@ucs.br
 - [Cat�logo](docs/catalogo.md)
 - [Como pesquisar](docs/busca.md)
