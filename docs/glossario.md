@@ -1,0 +1,1 @@
+- Curadoria: sele‡Æo dos filmes.
